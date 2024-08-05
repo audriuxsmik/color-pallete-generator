@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColorPaletteGenerator", "ColorPaletteGenerator\ColorPaletteGenerator.csproj", "{F33081B3-0E2F-4A2E-9FA4-3855440FE04E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F33081B3-0E2F-4A2E-9FA4-3855440FE04E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F33081B3-0E2F-4A2E-9FA4-3855440FE04E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F33081B3-0E2F-4A2E-9FA4-3855440FE04E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F33081B3-0E2F-4A2E-9FA4-3855440FE04E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9229542-1C4A-458B-A411-C263EE699AD5}
+	EndGlobalSection
+EndGlobal

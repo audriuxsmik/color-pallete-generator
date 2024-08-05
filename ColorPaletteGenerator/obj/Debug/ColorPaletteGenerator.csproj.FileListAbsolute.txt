@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\ColorPaletteGenerator\ColorPaletteGenerator\bin\Debug\ColorPaletteGenerator.exe.config
+C:\Users\Admin\source\repos\ColorPaletteGenerator\ColorPaletteGenerator\bin\Debug\ColorPaletteGenerator.exe
+C:\Users\Admin\source\repos\ColorPaletteGenerator\ColorPaletteGenerator\bin\Debug\ColorPaletteGenerator.pdb
+C:\Users\Admin\source\repos\ColorPaletteGenerator\ColorPaletteGenerator\bin\Debug\Guna.UI2.dll
+C:\Users\Admin\source\repos\ColorPaletteGenerator\ColorPaletteGenerator\obj\Debug\ColorPaletteGenerator.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\ColorPaletteGenerator\ColorPaletteGenerator\obj\Debug\ColorPaletteGenerator.Form1.resources
+C:\Users\Admin\source\repos\ColorPaletteGenerator\ColorPaletteGenerator\obj\Debug\ColorPaletteGenerator.Properties.Resources.resources
+C:\Users\Admin\source\repos\ColorPaletteGenerator\ColorPaletteGenerator\obj\Debug\ColorPaletteGenerator.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\ColorPaletteGenerator\ColorPaletteGenerator\obj\Debug\ColorPaletteGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ColorPaletteGenerator\ColorPaletteGenerator\obj\Debug\ColorPal.10B5C4B0.Up2Date
+C:\Users\Admin\source\repos\ColorPaletteGenerator\ColorPaletteGenerator\obj\Debug\ColorPaletteGenerator.exe
+C:\Users\Admin\source\repos\ColorPaletteGenerator\ColorPaletteGenerator\obj\Debug\ColorPaletteGenerator.pdb
