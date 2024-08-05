@@ -4,7 +4,7 @@
 
 # Simple color pallete generator made with Winforms. 
 
-Simple pallete generator that was made in 1 day with Winforms & Guna UI NuGet package in C#.
+Simple color pallete generator that was made in 1 day with Winforms & Guna UI NuGet package in C#.
 
 ![alt text](https://raw.githubusercontent.com/audriuxsmik/color-pallete-generator/main/preview.png)
 
